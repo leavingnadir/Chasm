@@ -624,7 +624,7 @@ nav input {
 .Shopping-Policy-hero {
   width: 100%;
   height: 80vh;
-  background: url("../images/heros/shipping-hero.jpg") center/cover no-repeat;
+  background: url("../images/heros/shipping-hero.png") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1180,7 +1180,7 @@ table {
 .Refund-Policy-hero {
   width: 100%;
   height: 80vh;
-  background: url("../images/heros/refund-hero.jpg") center/cover no-repeat;
+  background: url("../images/heros/refund-hero.png") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2138,7 +2138,7 @@ table {
 .mosthara-hero {
   width: 100%;
   height: 80vh;
-  background: url("../images/heros/drops-hero.webp") center/cover no-repeat;
+  background: url("../images/drops/banner.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
