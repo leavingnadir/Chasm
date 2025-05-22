@@ -18,3 +18,4 @@ size chart
 Remaining:
 product detail
 shop
+not Listed products are on out of stock checkout for pre order
